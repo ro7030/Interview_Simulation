@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Experimenter_Gender_room.unity
+    guid: 095682b4247d1b746a7a60d3ce5399ca
+  - enabled: 1
+    path: Assets/Scenes/mirror_room_Man.unity
+    guid: 8d9479c6af00c284ab23a7d0daf3b53b
+  - enabled: 1
+    path: Assets/Scenes/mirror_room_Woman.unity
+    guid: 7e5058b5a831fac4cb87f2a6d7367d66
+  - enabled: 1
+    path: Assets/Scenes/Office_Man/Office_Room_Man_formal_formal.unity
+    guid: 0f3cb4b0814686e43bdef5f31a622bc7
+  - enabled: 1
+    path: Assets/Scenes/Office_Man/Office_Room_Man_formal_informal.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Office_Man/Office_Room_Man_informal_formal.unity
+    guid: 28a86ed1a2b18ae469f0305c6488a196
+  - enabled: 1
+    path: Assets/Scenes/Office_Man/Office_Room_Man_informal_informal.unity
+    guid: 12378c979831105408774f7b2dda35e2
+  - enabled: 1
+    path: Assets/Scenes/Office_Woman/Office_Room_Woman_formal_formal.unity
+    guid: c090b9e57e3835148af11dec13c2b6d9
+  - enabled: 1
+    path: Assets/Scenes/Office_Woman/Office_Room_Woman_formal_informal.unity
+    guid: 97b172a678094394bb328940e553bbee
+  - enabled: 1
+    path: Assets/Scenes/Office_Woman/Office_Room_Woman_informal_formal.unity
+    guid: bf544ed79fde0e840aba81cf582676af
+  - enabled: 1
+    path: Assets/Scenes/Office_Woman/Office_Room_Woman_informal_informal.unity
+    guid: 019617dd2eb081444b6dfaa12ca3f432
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 85420141b633121449e946fcc1a97d9d, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3153fb685cc996a4d9bf4618b7ff26c9, type: 2}
